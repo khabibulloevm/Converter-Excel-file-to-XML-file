@@ -1,0 +1,180 @@
+﻿<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Bytescout.Spreadsheet</Author>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+ <ProtectStructure>False</ProtectStructure>
+ <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+    <Style ss:ID="Default" ss:Name="Normal">
+    <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial Cyr" x:CharSet="204"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+  <Worksheet ss:Name="Лист1">
+  <Table>
+  <Row>
+   <Cell><Data ss:Type="String">Название организации</Data></Cell>
+   <Cell><Data ss:Type="String">Идентификатор места осуществления деятельности (МОД)</Data></Cell>
+   <Cell><Data ss:Type="String">Наименование</Data></Cell>
+   <Cell><Data ss:Type="String">Номер производственной серии</Data></Cell>
+   <Cell><Data ss:Type="String">МНН</Data></Cell>
+   <Cell><Data ss:Type="String">Номер рецепта</Data></Cell>
+   <Cell><Data ss:Type="String">Дата рецепта </Data></Cell>
+   <Cell><Data ss:Type="String">Лекарственная форма</Data></Cell>
+   <Cell><Data ss:Type="String">Количество</Data></Cell>
+   <Cell><Data ss:Type="String">Единица измерения</Data></Cell>
+   <Cell><Data ss:Type="String">Цена</Data></Cell>
+   <Cell><Data ss:Type="String">Сумма</Data></Cell>
+   <Cell><Data ss:Type="String">Фамилия пациента</Data></Cell>
+   <Cell><Data ss:Type="String">Имя пациента</Data></Cell>
+   <Cell><Data ss:Type="String">Отчество пациента</Data></Cell>
+   <Cell><Data ss:Type="String">Дата рождения Пациента</Data></Cell>
+   <Cell><Data ss:Type="String">СНИЛС Пациента</Data></Cell>
+   <Cell><Data ss:Type="String">Produced with ByteScout Spreadsheet SDK v4.5.1.2018 [TRIAL]</Data></Cell>   </Row>
+  <Row>
+   <Cell><Data ss:Type="String">АО "ГБ 12"</Data></Cell>
+   <Cell><Data ss:Type="String">00000000134679</Data></Cell>
+   <Cell><Data ss:Type="String">L-Тироксин табл., 100 мкг № 100 Озон ООО</Data></Cell>
+   <Cell><Data ss:Type="String">221121</Data></Cell>
+   <Cell><Data ss:Type="String">L-Тироксин</Data></Cell>
+   <Cell><Data ss:Type="String">653</Data></Cell>
+    <Cell><Data ss:Type="DateTime">2022-03-25T00:00:00.000</Data></Cell>
+   <Cell><Data ss:Type="String">Таблетки</Data></Cell>
+    <Cell><Data ss:Type="Number">0,5</Data></Cell>
+   <Cell><Data ss:Type="String">Упаковка</Data></Cell>
+    <Cell><Data ss:Type="Number">55,6</Data></Cell>
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+   <Cell><Data ss:Type="String">Фамилия1</Data></Cell>
+   <Cell><Data ss:Type="String">Имя1</Data></Cell>
+   <Cell><Data ss:Type="String">Отчество1</Data></Cell>
+    <Cell><Data ss:Type="DateTime">1995-02-01T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="Number">12345678901</Data></Cell>
+   </Row>
+  <Row>
+   <Cell><Data ss:Type="String">АО "ГБ 12"</Data></Cell>
+   <Cell><Data ss:Type="String">00000000134679</Data></Cell>
+   <Cell><Data ss:Type="String">Авифавир табл. п.п.о., 200 мг № 40 ИИХР АО</Data></Cell>
+    <Cell><Data ss:Type="Number">90620</Data></Cell>
+   <Cell><Data ss:Type="String">Авифавир</Data></Cell>
+    <Cell><Data ss:Type="Number">382</Data></Cell>
+    <Cell><Data ss:Type="DateTime">2021-03-10T00:00:00.000</Data></Cell>
+   <Cell><Data ss:Type="String">Таблетки</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   <Cell><Data ss:Type="String">Упаковка</Data></Cell>
+    <Cell><Data ss:Type="Number">14600</Data></Cell>
+    <Cell><Data ss:Type="Number">14600</Data></Cell>
+   <Cell><Data ss:Type="String">Фамилия2</Data></Cell>
+   <Cell><Data ss:Type="String">Имя2</Data></Cell>
+   <Cell><Data ss:Type="String">Отчество2</Data></Cell>
+    <Cell><Data ss:Type="DateTime">1995-02-02T00:00:00.000</Data></Cell>
+    <Cell><Data ss:Type="Number">12345678902</Data></Cell>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   <Cell><Data ss:Type="String">Produced with ByteScout Spreadsheet SDK v4.5.1.2018 [TRIAL]</Data></Cell>   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   <Cell><Data ss:Type="String">Produced with ByteScout Spreadsheet SDK v4.5.1.2018 [TRIAL]</Data></Cell>   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   <Cell><Data ss:Type="String">Produced with ByteScout Spreadsheet SDK v4.5.1.2018 [TRIAL]</Data></Cell>   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  <Row>
+   </Row>
+  </Table>
+ </Worksheet>
+</Workbook>

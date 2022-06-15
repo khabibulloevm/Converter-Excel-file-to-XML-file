@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ConvertXLS_to_XML\ConvertXLS_to_XML\bin\Debug\ConvertXLS_to_XML.exe.config
+C:\Users\User\source\repos\ConvertXLS_to_XML\ConvertXLS_to_XML\bin\Debug\ConvertXLS_to_XML.exe
+C:\Users\User\source\repos\ConvertXLS_to_XML\ConvertXLS_to_XML\bin\Debug\ConvertXLS_to_XML.pdb
+C:\Users\User\source\repos\ConvertXLS_to_XML\ConvertXLS_to_XML\bin\Debug\Bytescout.Spreadsheet.dll
+C:\Users\User\source\repos\ConvertXLS_to_XML\ConvertXLS_to_XML\bin\Debug\Bytescout.Spreadsheet.xml
+C:\Users\User\source\repos\ConvertXLS_to_XML\ConvertXLS_to_XML\obj\Debug\ConvertXLS_to_XML.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConvertXLS_to_XML\ConvertXLS_to_XML\obj\Debug\ConvertXLS_to_XML.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConvertXLS_to_XML\ConvertXLS_to_XML\obj\Debug\ConvertXLS_to_XML.csproj.CopyComplete
+C:\Users\User\source\repos\ConvertXLS_to_XML\ConvertXLS_to_XML\obj\Debug\ConvertXLS_to_XML.exe
+C:\Users\User\source\repos\ConvertXLS_to_XML\ConvertXLS_to_XML\obj\Debug\ConvertXLS_to_XML.pdb
